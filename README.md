@@ -1,4 +1,4 @@
-# Git-Installation
+# Installing-Git-on-Mac
 My operation sytem: macOS Mojave (Version 10.14.2)
 
 Step 1- Before installing Git:

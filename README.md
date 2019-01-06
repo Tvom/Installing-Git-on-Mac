@@ -15,4 +15,3 @@ Step 3-Verifying Git:
 1. Open mac terminal, and type "git --version". (Expected: git version 2.xx.x. Then, congrats. Enjoy, Git)
 2. Or you may see this message: "xcrun: error: invalid active developer path........". Then, on the mac terminal, type "xcode-select --install". Finally, type "git --version". 
 
-
